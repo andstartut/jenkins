@@ -1,0 +1,9 @@
+Started by user [8mha:////4OtAC9dUMouC1SDz3HCMuG28yvGeElbtQ3OZYXso3dVEAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/dLi1CL9xLyUotRyANl5zfHBAAAA[0mAndrew
+Building in workspace C:\GitRep\Jenkins\workspace\Param job
+[Param job] $ cmd /c call C:\Windows\TEMP\jenkins2391751649631395040.bat
+
+C:\GitRep\Jenkins\workspace\Param job>ECHO pre0prod 
+pre0prod
+
+C:\GitRep\Jenkins\workspace\Param job>exit 0 
+Finished: SUCCESS

@@ -1,0 +1,9 @@
+Started by user [8mha:////4OtAC9dUMouC1SDz3HCMuG28yvGeElbtQ3OZYXso3dVEAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/dLi1CL9xLyUotRyANl5zfHBAAAA[0mAndrew
+Building on master in workspace C:\GitRep\Jenkins\workspace\HelloUser
+[HelloUser] $ cmd /c call C:\Windows\TEMP\jenkins3738932618387321571.bat
+
+C:\GitRep\Jenkins\workspace\HelloUser>echo Hello, Alisa! 
+Hello, Alisa!
+
+C:\GitRep\Jenkins\workspace\HelloUser>exit 0 
+Finished: SUCCESS
